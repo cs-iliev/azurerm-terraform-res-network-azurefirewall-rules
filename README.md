@@ -14,7 +14,7 @@ designed to slot into Azure Landing Zones / VWAN secured hubs. Follows AVM-style
 
 ## Requirements
 
-- AzureRM provider `~> 4.0`
+- AzureRM provider `~> 4.20`
 - An existing **Firewall Policy** (you pass its resource ID)
 
 ## Example
